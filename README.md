@@ -1,4 +1,4 @@
-# HMVT-EXIST2021
+# HMVT-2026
 Hybrid Multivector Text Representation for Digital Violence Detection.
 Material suplementario para tesis doctoral y preparación de artículo científico
 Estado: consolidación documental de experimentos; no es una nueva ejecución ni validación de métricas.
