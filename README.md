@@ -22,33 +22,6 @@ Línea experimental	Implementaciones únicas
 05. Geolingüística y análisis espacial	14
 06. Reportes y visualización	8
 
-
-Índice de versiones identificadas
-Versión identificada	Experimentos que la mencionan
-V1	EXP-001, EXP-002, EXP-003, EXP-004, EXP-005, EXP-007, EXP-008, EXP-009, EXP-010 … (58 apariciones)
-V2	EXP-001, EXP-002, EXP-003, EXP-004, EXP-007, EXP-018, EXP-023, EXP-024, EXP-025 … (31 apariciones)
-V3	EXP-001, EXP-002, EXP-003, EXP-004, EXP-006, EXP-007, EXP-022, EXP-023, EXP-024 … (32 apariciones)
-V4	EXP-001, EXP-002, EXP-003, EXP-004, EXP-006, EXP-007, EXP-038, EXP-039, EXP-040 … (26 apariciones)
-V5	EXP-038, EXP-039, EXP-040, EXP-041, EXP-042, EXP-047 (6 apariciones)
-V6	EXP-006 (1 apariciones)
-V6a	EXP-006, EXP-038, EXP-039, EXP-040, EXP-041, EXP-042, EXP-047 (7 apariciones)
-V6b	EXP-006, EXP-038, EXP-039, EXP-040, EXP-041, EXP-042, EXP-047 (7 apariciones)
-V6c	EXP-006, EXP-038, EXP-039, EXP-040, EXP-041, EXP-042, EXP-047 (7 apariciones)
-V6d	EXP-006, EXP-038, EXP-039, EXP-040, EXP-041, EXP-042, EXP-047 (7 apariciones)
-V7	EXP-045 (1 apariciones)
-V8	EXP-046 (1 apariciones)
-
-
-Este índice indica que la versión se menciona en el código y no certifica su implementación completa ni que todas las versiones se ejecuten por separado. Las variantes V6a, V6b, V6c y V6d se listan individualmente. Para citar una definición de modelo, consulte la celda correspondiente y su origen.
-Fuentes primarias consolidadas
-- Día_19_Octubre_2026.ipynb
-- 21_Octubre.ipynb
-- 27_Octubre.ipynb
-- Reportes_tesis.ipynb
-- Reportes_tesis (1).ipynb
-- Untitled7.ipynb
-Las celdas repetidas se identificaron comparando la estructura sintáctica de Python (AST), lo que permite eliminar copias que difieran solo en espacios o comentarios. Los experimentos con cambios efectivos de código se preservan, aunque sus objetivos o encabezados sean similares. Por ello, una misma etiqueta V1/V2/etc. puede aparecer en varias implementaciones distintas: no se sustituyeron versiones diferentes por la última.
-Protocolo y variables de investigación
 1. Objetivos de clasificación
 Binaria: distingue publicaciones sin violencia/sexismo de las que presentan violencia/sexismo, según la definición de etiquetas utilizada por cada script original.
 Multiclase reestructurada: clases 0 = No violencia, 1 = Misoginia, 2 = Acoso, 3 = Violencia sexual cuando el código trabaja con la taxonomía de cuatro clases del conjunto reestructurado.
